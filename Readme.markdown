@@ -1,7 +1,7 @@
-# ![](https://raw.github.com/alexrestrepo/RBComposer/master/class.png) RBComposer
+# ![](https://raw.github.com/alexrestrepo/RBComposer/master/class.png) RBAlternating List
 
-Another custom frames project, but the code has been greatly simplified, and the look updated to match Apple's Quartz Composer.
-You will need to tweak it to make it work nicely in windows.
+I think we all have an implementation of this one...
+Just as you would expect, a RealBasic listbox that alternates the colors of the rows.
 
 `License`
 
