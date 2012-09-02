@@ -21,4 +21,4 @@ Current Version: 1.0
 Version History:
 1.0 Initial Github Release
 
-![](https://raw.github.com/alexrestrepo/RBComposer/master/screen.png)
+![](https://raw.github.com/alexrestrepo/RBAlternating-List/master/screen.png)
